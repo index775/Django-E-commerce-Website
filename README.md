@@ -23,3 +23,5 @@ This is an E-commerce website built in Python Django framework
 
 ## Checkout
 ![](images/ecommerce2.PNG)
+
+Some addtional text for testing the legalzard bot
