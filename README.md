@@ -23,4 +23,3 @@ This is an E-commerce website built in Python Django framework
 
 ## Checkout
 ![](images/ecommerce2.PNG)
-#hbjhsdvjksdnvjsdnvjksd
